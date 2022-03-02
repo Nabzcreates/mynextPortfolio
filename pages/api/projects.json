@@ -1,18 +1,57 @@
 [
   {
     "id": 1,
-    "name": "YouTube Clone",
-    "image": "https://imgur.com/O7kt2Lp.png",
-    "description": "A platform for web developers to showcase their projects",
+    "name": "DigiArt",
+    "image": "/images/digiart.jpg",
+    "description": "A platform for users to buy and upload NFTs",
     "tags": ["react", "api", "css", "react native", "styled-components"],
-    "source_code": "https://github.com/CleverProgrammers/react-native-youtube-clone"
+    "source_code": "https://github.com/Nabzcreates/DigiArtFinal",
+    "demo":"https://digi-art.netlify.app"
+
   },
   {
     "id": 1,
-    "name": "YouTube Clone",
-    "image": "https://imgur.com/O7kt2Lp.png",
-    "description": "A platform for web developers to showcase their projects",
+    "name": "Beatbox app",
+    "image": "/images/beatbox.jpg",
+    "description": "A platform that plays beatbox sounds on keypress",
+    "tags": ["javascript", "api", "css",  "styled-components"],
+    "source_code": "https://github.com/Nabzcreates/beatbox",
+    "demo":"https://beatboxbynabz.netlify.app/"
+  },
+  {
+    "id": 1,
+    "name": "Tip Calculator",
+    "image": "/images/tip.png",
+    "description": "A platform that calculates tip percentage and splits in between the users",
     "tags": ["react", "api", "css", "react native", "styled-components"],
-    "source_code": "https://github.com/CleverProgrammers/react-native-youtube-clone"
+    "source_code": "https://github.com/Nabzcreates/todoapp",
+    "demo":"https://tipcalculaterbynabz.netlify.app"
+  },
+  {
+    "id": 1,
+    "name": "Weather app",
+    "image": "/images/weatherApp.jpg",
+    "description": "A platform that uses api and  shows the searched city current weather",
+    "tags": ["react", "api", "css", "react native", "styled-components"],
+    "source_code": "https://github.com/Nabzcreates/",
+    "demo":"https://weatherappbynabz.netlify.app/"
+  },
+  {
+    "id": 1,
+    "name": "Weather app",
+    "image": "/images/weatherApp.jpg",
+    "description": "A platform that uses api and  shows the searched city current weather",
+    "tags": ["react", "api", "css", "react native", "styled-components"],
+    "source_code": "https://github.com/Nabzcreates/",
+    "demo":"https://weatherappbynabz.netlify.app/"
+  },
+  {
+    "id": 1,
+    "name": "Guess the number",
+    "image": "/images/guess.jpg",
+    "description": "A gaming app by taking user's input to guess the number",
+    "tags": ["Javascript", "css", "styled-components"],
+    "source_code": "https://github.com/Nabzcreates/",
+    "demo":"https://guessthenumberbynabz.netlify.app"
   }
 ]

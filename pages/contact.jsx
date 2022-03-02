@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import ContactCode from '../components/ContactCode';
 import styles from '../styles/ContactPage.module.css';
-
+ 
 const ContactPage = () => {
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
@@ -31,7 +31,7 @@ const ContactPage = () => {
         <h1>Reach Out Via Socials</h1>
         <ContactCode />
       </div>
-      <div>
+      {/* <div>
         <h1>Or Fill Out The Form</h1>
         <form className={styles.form} onSubmit={submitForm}>
           <div className={styles.flex}>
@@ -82,7 +82,7 @@ const ContactPage = () => {
           </div>
           <button type="submit">Submit</button>
         </form>
-      </div>
+      </div> */}
     </div>
   );
 };
