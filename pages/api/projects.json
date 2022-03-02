@@ -29,21 +29,30 @@
   },
   {
     "id": 1,
-    "name": "Weather app",
-    "image": "/images/weatherApp.jpg",
-    "description": "A platform that uses api and  shows the searched city current weather",
-    "tags": ["react", "api", "css", "react native", "styled-components"],
-    "source_code": "https://github.com/Nabzcreates/",
-    "demo":"https://weatherappbynabz.netlify.app/"
+    "name": "GITHUB API call",
+    "image": "/images/githubapi.jpg",
+    "description": "A platfrom that lets the user search for a github user to display their information",
+    "tags": ["react","api", "css", "react-native","styled-components"],
+    "source_code": "https://github.com/Nabzcreates/GithubAPICall/blob/main/src/App.js",
+    "demo":"https://github-apisearch.netlify.app/"
   },
   {
     "id": 1,
     "name": "Weather app",
     "image": "/images/weatherApp.jpg",
     "description": "A platform that uses api and  shows the searched city current weather",
-    "tags": ["react", "api", "css", "react native", "styled-components"],
-    "source_code": "https://github.com/Nabzcreates/",
+    "tags": ["Javascript", "api", "css", "styled-components"],
+    "source_code": "https://github.com/Nabzcreates/weatherapp",
     "demo":"https://weatherappbynabz.netlify.app/"
+  },
+  {
+    "id": 1,
+    "name": "NFT card",
+    "image": "/images/nft.jpg",
+    "description": "A platform that shows a collection of NFT cards with their structure and style",
+    "tags": ["react", "css", "api", "react native","styled-components"],
+    "source_code": "https://github.com/Nabzcreates/nftCard",
+    "demo":"https://nftcarddisplay.netlify.app/"
   },
   {
     "id": 1,
@@ -53,5 +62,14 @@
     "tags": ["Javascript", "css", "styled-components"],
     "source_code": "https://github.com/Nabzcreates/",
     "demo":"https://guessthenumberbynabz.netlify.app"
+  },
+  {
+    "id": 1,
+    "name": "Text Editor",
+    "image": "/images/text.png",
+    "description": "A platform to edit text and style it",
+    "tags": ["Javascript", "css", "styled-components"],
+    "source_code": "https://github.com/Nabzcreates/",
+    "demo":"https://exercisetexteditor.netlify.app"
   }
 ]
